@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+html, body {
+  font-family: sans-serif;
+  height: 100%;
+  width: 100%; }
+
+.toolbox {
+  width: 100%;
+  min-height: 50px;
+  background-color: white;
+  border-bottom: 1px solid #f2f2f2; }
+
+.program {
+  background-color: #f2f2f2;
+  height: calc(100% - 51px);
+  width: 100%; }
+
+/*# sourceMappingURL=skyoffice.css.map */
