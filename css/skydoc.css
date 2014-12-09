@@ -1,3 +1,13 @@
-.document {
-    width: 800px;
+.papers {
+    width: 650px;
+    margin: 0 auto;
+    padding-top:20px;
+}
+
+.papers .paper {
+    padding:20px;
+    background-color: white;
+    width: 100%;
+    height: 700px;
+    outline: none;
 }
